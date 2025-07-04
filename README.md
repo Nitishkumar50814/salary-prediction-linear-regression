@@ -1,5 +1,3 @@
-# salary-prediction-linear-regression
-"A Machine Learning model to predict employee salaries based on work experience, job role, and other features by Python, Pandas, and Linear Regression for employee compensation analysis.
 
 <h1 align="center">💼 HR Salary Prediction using Machine Learning</h1>
 
@@ -58,8 +56,8 @@ Key insights obtained from data:
 ### 📉 Sample Visualizations:
 
 <p align="center">
-  <img src="https://i.imgur.com/aq2jQ6g.png" width="400" alt="Experience vs Salary">
-  <img src="https://i.imgur.com/tCzIzru.png" width="400" alt="Department Distribution">
+  <img src="images/experience_vs_salary.png" width="400" alt="Experience vs Salary">
+  <img src="images/department_vs_salary.png" width="400" alt="Department vs Salary">
 </p>
 
 ---
